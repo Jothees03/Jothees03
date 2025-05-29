@@ -17,9 +17,9 @@
 ## Skills 
 
   <ul>
-    <li>🧑‍💻 Python, C </li>
+    <li>🧑‍💻 Python </li>
     <li>🚀 Html, CSS </li>
-    <li>💿 Sql, Excel </li>
+    <li>💿 Sql,Excel,Tableau,PowerBi </li>
     <li>☁️  Linux , AWS , CCNA , GCP (EC2, VPC, subnet, route table, security group, VPN, Instances, buckets, firewall, gateways, snapshot) </li>
     <li>💻 K8s , Jenkins , Docker , ansible , terraform , shell script </li>
   </ul>
