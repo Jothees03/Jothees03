@@ -4,14 +4,14 @@
 
 ###
 
-### <h3 align="center">I'am JOE, an 21 year old Cloud Engineer</h3> 
+### <h3 align="center">I'am JOE, an 22 year old Data Analyst/Scientist</h3> 
 
 ###
 
 ### <h4 align="center">I Am passionate On Technology</h4>
 
   <ul>
-      <li>Software developer, Linux Admin, Devops Engineer, & Network Engineer</li>
+      <li>Data Analyst,Data Scientist,Linux Admin,AWS, & Network Engineer</li>
   </ul>
 
 ## Skills 
@@ -21,7 +21,6 @@
     <li>🚀 Html, CSS </li>
     <li>💿 Sql,Excel,Tableau,PowerBi </li>
     <li>☁️  Linux , AWS , CCNA , GCP (EC2, VPC, subnet, route table, security group, VPN, Instances, buckets, firewall, gateways, snapshot) </li>
-    <li>💻 K8s , Jenkins , Docker , ansible , terraform , shell script </li>
   </ul>
 
 
