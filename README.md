@@ -6,13 +6,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Applied+Data+Scientist;Python+%7C+ML+%7C+Analytics;Building+Real-World+AI+Solutions;Turning+Data+Into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Deep+Learning+Engineer;CNN+%7C+ANN+%7C+Time+Series;Applied+Data+Scientist;Python+%7C+ML+%7C+DL;Building+Production--Ready+AI+Systems" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Developer-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNN%20%7C%20ANN%20%7C%20TS-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Working%20Professional-2ECC71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Real--World%20AI-9B59B6?style=for-the-badge"/>
 </p>
 
 ---
@@ -21,10 +21,10 @@
 
 ## 🧠 About Me
 
-I am a **working AI & Machine Learning Developer** focused on building **production-ready intelligent systems**.  
-My work centers on transforming **raw data into scalable AI solutions** that support **automation, analytics, and decision-making**.
+I am a **working AI, Machine Learning & Deep Learning Developer** with hands-on experience in building **intelligent, data-driven systems**.  
+My expertise lies in **designing, training, and deploying ML and Deep Learning models** that solve **real-world problems**.
 
-I believe in **applied AI** — models that deliver measurable impact beyond notebooks.
+I focus on **applied AI** — delivering scalable, explainable, and production-ready solutions.
 
 ---
 
@@ -33,11 +33,11 @@ I believe in **applied AI** — models that deliver measurable impact beyond not
 ## 💼 Current Role
 
 **AI & Machine Learning Developer**  
-- Designing end-to-end ML pipelines  
-- Data preprocessing & feature engineering  
-- Training, evaluating, and optimizing models  
-- Integrating ML into real applications  
-- AI-driven analytics & automation  
+- End-to-end ML & DL pipeline design  
+- CNN, ANN & Time Series model development  
+- Feature engineering & data preprocessing  
+- Model optimization & evaluation  
+- AI integration into real-world applications  
 
 ---
 
@@ -52,6 +52,14 @@ I believe in **applied AI** — models that deliver measurable impact beyond not
   <img src="https://img.shields.io/badge/Regression-9B59B6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Classification-E67E22?style=flat-square"/>
   <img src="https://img.shields.io/badge/Clustering-E84393?style=flat-square"/>
+</p>
+
+### 🧠 Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/ANN-Artificial%20Neural%20Networks-2C3E50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Networks-8E44AD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Time%20Series-Forecasting%20Models-16A085?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sequence%20Modeling-LSTM%20%7C%20GRU-2980B9?style=flat-square"/>
 </p>
 
 ### 🐍 Python & Development
@@ -82,10 +90,10 @@ I believe in **applied AI** — models that deliver measurable impact beyond not
 
 ## ⚡ What I Build
 
-- AI-powered analytics systems  
-- End-to-end ML pipelines  
-- Data-driven automation solutions  
-- Predictive & intelligent applications  
+- CNN-based image classification systems  
+- ANN-driven prediction & analytics models  
+- Time series forecasting solutions  
+- End-to-end ML & DL pipelines  
 - Cloud-ready AI architectures  
 
 ---
@@ -117,9 +125,9 @@ I believe in **applied AI** — models that deliver measurable impact beyond not
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <i>“Build AI that works in production, not just in theory.”</i>
+  <i>“Deep learning is not magic — it’s applied mathematics at scale.”</i>
 </p>
 
 <p align="center">
-  ⭐ Explore my repositories to see real-world AI & ML projects
+  ⭐ Explore my repositories to see real-world AI, ML & DL projects
 </p>
