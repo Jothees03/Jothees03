@@ -1,97 +1,125 @@
-## 👋 Hi, I'm Jotheeswaran (JOE)
+<!-- ===================== HERO SECTION ===================== -->
+
+<h1 align="center">
+  Hi, I'm Jotheeswaran (JOE)
+  <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" width="55px"/>
+</h1>
 
 <p align="center">
-  <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" width="60px" alt="Waving Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Applied+Data+Scientist;Python+%7C+ML+%7C+Analytics;Building+Real-World+AI+Solutions;Turning+Data+Into+Intelligence" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=00E5FF&size=24&center=true&vCenter=true&width=800&lines=root%40JOE_S~%23+whoami;AI+%26+ML+Developer+%F0%9F%A4%96;Machine+Learning+Engineer;Applied+Data+Scientist;Python+%7C+Cloud+%7C+Automation;Building+Intelligent+Systems+at+Scale" />
+  <img src="https://img.shields.io/badge/AI%2FML-Developer-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Working%20Professional-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Real--World%20AI-9B59B6?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧠 Who Am I?
+<!-- ===================== ABOUT ===================== -->
 
-I am a **working AI & Machine Learning Developer** with hands-on experience in **building, training, and deploying intelligent systems**.  
-My core strength lies in **turning raw data into real-world AI solutions** using Python, ML models, analytics, and cloud platforms.
+## 🧠 About Me
 
-I focus on **practical AI**, not just theory — models that solve business problems, automate decisions, and scale reliably.
+I am a **working AI & Machine Learning Developer** focused on building **production-ready intelligent systems**.  
+My work centers on transforming **raw data into scalable AI solutions** that support **automation, analytics, and decision-making**.
+
+I believe in **applied AI** — models that deliver measurable impact beyond notebooks.
 
 ---
 
-### 🚀 Current Role
+<!-- ===================== CURRENT ROLE ===================== -->
 
-**💼 AI & Machine Learning Developer (Current)**  
-- Designing ML pipelines  
-- Training & evaluating models  
+## 💼 Current Role
+
+**AI & Machine Learning Developer**  
+- Designing end-to-end ML pipelines  
 - Data preprocessing & feature engineering  
+- Training, evaluating, and optimizing models  
+- Integrating ML into real applications  
 - AI-driven analytics & automation  
-- Model integration with real applications  
 
 ---
 
-### 🤖 Core Expertise (AI-First)
+<!-- ===================== SKILLS ===================== -->
 
-#### 🧠 Artificial Intelligence & Machine Learning
-- Supervised & Unsupervised Learning  
-- Regression, Classification & Clustering  
-- Model Evaluation & Optimization  
-- Feature Engineering & Data Preparation  
-- Real-world ML problem solving  
+## ⚙️ Core Skill Stack
 
-#### 🐍 Python & Development
-- Python for AI & Data  
-- Automation Scripts  
-- Modular & Scalable Code Design  
+### 🤖 Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Supervised%20Learning-3498DB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-1ABC9C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Regression-9B59B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Classification-E67E22?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clustering-E84393?style=flat-square"/>
+</p>
 
-#### 📊 Data & Analytics
-- SQL for analytics  
-- Excel for analysis  
-- Tableau & Power BI for dashboards  
-- Data storytelling & insights  
+### 🐍 Python & Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-2ECC71?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scalable%20Code-34495E?style=flat-square"/>
+</p>
 
-#### ☁️ Cloud & Systems (Supporting AI)
-- Linux Administration  
-- AWS & GCP Fundamentals  
-- EC2, VPC, Subnets, Security Groups  
-- Storage Buckets, Networking, Snapshots  
+### 📊 Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
+</p>
+
+### ☁️ Cloud & Systems (AI Support Layer)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+</p>
 
 ---
 
-### ⚡ What I Like Building
+<!-- ===================== WHAT I BUILD ===================== -->
 
-- AI-powered analytics dashboards  
+## ⚡ What I Build
+
+- AI-powered analytics systems  
 - End-to-end ML pipelines  
-- Automation using Python & ML  
-- Data-driven decision systems  
-- Scalable AI solutions on cloud  
+- Data-driven automation solutions  
+- Predictive & intelligent applications  
+- Cloud-ready AI architectures  
 
 ---
 
-### 🌐 Connect With Me
+<!-- ===================== CONNECT ===================== -->
 
-<p align="left">
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jotheessakthi3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Jotheeswaran-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/jotheeswaran_sakthi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/Instagram-jotheeswaran__sakthi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📫 Contact
+<!-- ===================== CONTACT ===================== -->
+
+## 📫 Contact
 
 - 📧 **Email:** jotheeswaransakthi@gmail.com  
 - 📱 **Mobile:** +91 95970 97633  
 
 ---
 
-### ✨ AI Philosophy
+<!-- ===================== FOOTER ===================== -->
 
-> *“Build models that work in the real world, not just notebooks.”*
+<p align="center">
+  <i>“Build AI that works in production, not just in theory.”</i>
+</p>
 
----
-
-⭐ *Explore my repositories to see AI, ML, and data projects in action.*
+<p align="center">
+  ⭐ Explore my repositories to see real-world AI & ML projects
+</p>
