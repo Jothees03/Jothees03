@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Developer-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-CNN%20%7C%20ANN%20%7C%20TS-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Working%20Professional-2ECC71?style=for-the-badge"/>
 </p>
 
