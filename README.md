@@ -4,14 +4,14 @@
 
 ###
 
-### <h3 align="center">I'am JOE, an 22 year old Data Analyst/Scientist</h3> 
+### <h3 align="center">I'am JOE, an 23 year old Data Analyst/Scientist</h3> 
 
 ###
 
 ### <h4 align="center">I Am passionate On Technology</h4>
 
   <ul>
-      <li>Data Analyst,Data Scientist,Linux Admin,AWS, & Network Engineer</li>
+      <li>AI Developer,ML Engineer,Python Developer,Data Analyst,Data Scientist</li>
   </ul>
 
 ## Skills 
