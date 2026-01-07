@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Deep+Learning+Engineer;CNN+%7C+ANN+%7C+Time+Series;Applied+Data+Scientist;Python+%7C+ML+%7C+DL;Building+Production--Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Deep+Learning+Engineer;Applied+Data+Scientist;Python+%7C+ML+%7C+DL;Building+Production--Ready+AI+Systems" />
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@ I focus on **applied AI** — delivering scalable, explainable, and production-r
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <i>“Deep learning is not magic — it’s applied mathematics at scale.”</i>
+  <i>“Build Models. Deploy AI. Solve Problems. Impact Lives. Automate the World.”</i>
 </p>
 
 <p align="center">
