@@ -1,76 +1,81 @@
 ## 👋 Hi, I'm Jotheeswaran (JOE)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=36BCF7&size=22&center=true&vCenter=true&width=700&lines=root%40JOE_S~%23+whoami;AI+%26+ML+Engineer;Data+Analyst+%7C+Data+Scientist;Cloud+%26+Linux+Enthusiast;Python+Developer;Automation+%26+Analytics+Builder" />
+  <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" width="60px" alt="Waving Hi"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=00E5FF&size=24&center=true&vCenter=true&width=800&lines=root%40JOE_S~%23+whoami;AI+%26+ML+Developer+%F0%9F%A4%96;Machine+Learning+Engineer;Applied+Data+Scientist;Python+%7C+Cloud+%7C+Automation;Building+Intelligent+Systems+at+Scale" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 Who Am I?
 
-I am a **23-year-old AI & Data professional** with a strong foundation in **Machine Learning, Data Analytics, and Cloud Computing**.  
-I am passionate about building **data-driven solutions**, automating workflows, and designing **scalable analytical systems**.
+I am a **working AI & Machine Learning Developer** with hands-on experience in **building, training, and deploying intelligent systems**.  
+My core strength lies in **turning raw data into real-world AI solutions** using Python, ML models, analytics, and cloud platforms.
 
-I enjoy working at the intersection of **AI, Data, and Cloud infrastructure**, and continuously upskill myself in emerging technologies.
-
----
-
-### 🚀 Professional Roles & Interests
-
-- AI Developer  
-- Machine Learning Engineer  
-- Data Analyst / Data Scientist  
-- Python Developer  
-- Cloud & Linux Practitioner  
-- Automation & Analytics Engineer  
+I focus on **practical AI**, not just theory — models that solve business problems, automate decisions, and scale reliably.
 
 ---
 
-### 🧠 Technical Skills
+### 🚀 Current Role
 
-#### 🧑‍💻 Programming & Development
-- Python  
-- Shell Scripting  
-- HTML, CSS  
+**💼 AI & Machine Learning Developer (Current)**  
+- Designing ML pipelines  
+- Training & evaluating models  
+- Data preprocessing & feature engineering  
+- AI-driven analytics & automation  
+- Model integration with real applications  
+
+---
+
+### 🤖 Core Expertise (AI-First)
+
+#### 🧠 Artificial Intelligence & Machine Learning
+- Supervised & Unsupervised Learning  
+- Regression, Classification & Clustering  
+- Model Evaluation & Optimization  
+- Feature Engineering & Data Preparation  
+- Real-world ML problem solving  
+
+#### 🐍 Python & Development
+- Python for AI & Data  
+- Automation Scripts  
+- Modular & Scalable Code Design  
 
 #### 📊 Data & Analytics
-- SQL  
-- Excel  
-- Tableau  
-- Power BI  
-- Data Cleaning, Visualization & Reporting  
+- SQL for analytics  
+- Excel for analysis  
+- Tableau & Power BI for dashboards  
+- Data storytelling & insights  
 
-#### 🤖 AI & Machine Learning
-- Supervised & Unsupervised Learning  
-- Model Training & Evaluation  
-- Data Preprocessing  
-- Real-world ML Problem Solving  
-
-#### ☁️ Cloud, Linux & Networking
+#### ☁️ Cloud & Systems (Supporting AI)
 - Linux Administration  
 - AWS & GCP Fundamentals  
-- Cloud Services:
-  - EC2, VPC, Subnets, Route Tables  
-  - Security Groups, Gateways, VPN  
-  - Buckets, Snapshots, Firewalls  
-- Networking Basics (CCNA concepts)
+- EC2, VPC, Subnets, Security Groups  
+- Storage Buckets, Networking, Snapshots  
 
 ---
 
-### 🔗 Connect With Me
+### ⚡ What I Like Building
+
+- AI-powered analytics dashboards  
+- End-to-end ML pipelines  
+- Automation using Python & ML  
+- Data-driven decision systems  
+- Scalable AI solutions on cloud  
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jotheessakthi3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://codesandbox.io/u/joe_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
   </a>
   <a href="https://instagram.com/jotheeswaran_sakthi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/joe_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
   </a>
 </p>
 
@@ -78,15 +83,15 @@ I enjoy working at the intersection of **AI, Data, and Cloud infrastructure**, a
 
 ### 📫 Contact
 
-- 📧 **Email:** [jotheeswaransakthi@gmail.com](mailto:jotheeswaransakthi@gmail.com)  
-- 📱 **Mobile:** [+91 95970 97633](tel:+919597097633)
+- 📧 **Email:** jotheeswaransakthi@gmail.com  
+- 📱 **Mobile:** +91 95970 97633  
 
 ---
 
-### ✨ Philosophy
+### ✨ AI Philosophy
 
-> *"Learn deeply, build practically, automate intelligently, and scale responsibly."*
+> *“Build models that work in the real world, not just notebooks.”*
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me for collaboration.*
+⭐ *Explore my repositories to see AI, ML, and data projects in action.*
